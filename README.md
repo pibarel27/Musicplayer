@@ -1,4 +1,4 @@
-# hello_world_app
+# Music Player
 
 A new Flutter project.
 
